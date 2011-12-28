@@ -56,5 +56,6 @@ describe PagesController do
                         :content =>
                           "Ruby on Rails Tutorial Sample App | Help")
 	end
+	end
   
 end
